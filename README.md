@@ -1,3 +1,5 @@
 # Yapo - Yet Another PHP ORM
 
-Based on PORK DB, this is a RAD-style active-record ORM with some tricks.
+This repo has moved to:
+
+https://bitbucket.org/metzohanian/yapo2
